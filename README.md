@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kiroz1
 - 👀 I’m interested in web and games develop
-- 🌱 I’m currently learning django
+- 🌱 I’m currently learning Mongo
 - 💞️ I’m looking to collaborate developing games and webapps
 - 📫 How to reach me ...
 

@@ -28,22 +28,6 @@ Actualmente trabajo principalmente con **Java y desarrollo web**, creando proyec
 
 ---
 
-## 📌 Proyectos Destacados
-
-### 📊 Control de Peso
-Aplicación web para registrar **peso y medida de cintura** y visualizar el progreso con gráficas.
-
-🔗 https://github.com/TU-USUARIO/control-peso
-
----
-
-### 📋 Mini Trello
-Mini aplicación tipo Trello con funcionalidades básicas de gestión de tareas.
-
-🔗 https://github.com/TU-USUARIO/mini-trello
-
----
-
 ## 🧠 Actualmente aprendiendo
 
 - Spring Boot avanzado
